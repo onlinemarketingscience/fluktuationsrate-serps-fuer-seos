@@ -1,2 +1,1 @@
-# fluktuationsrate-serps-fuer-seos
-# fluktuationsrate-serps-fuer-seos
+Berechnung der Fluktuationsrate. Mehr dazu auf dem Blog https://onlinemarketingscience.com
