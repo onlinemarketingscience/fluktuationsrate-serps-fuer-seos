@@ -80,7 +80,7 @@ def calculateFlu(keyword):
 for keyword in keywords: 
     
     tempFlu = calculateFlu(keyword)
-    with open('fluktuationsraten.csv', 'w', newline='') as csvfile:
+    with open('fluktuationsraten.csv', 'a', newline='') as csvfile:
     
         sciencewriter = csv.writer(csvfile, delimiter=' ',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
